@@ -1388,5 +1388,5 @@ That's just one way of doing it. You can also look into [Server Sent Events](htt
 
 ## The end
 
-Congratulations! You made it to the end. You can find the full code on my [Github](https://github.com/newtonmunene99/audio-waveform-to-video)
+Congratulations! You made it to the end. You can find the full code on my [Github](https://github.com/musebe/Nextjs-waveform)
 
